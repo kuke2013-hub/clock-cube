@@ -8,7 +8,7 @@ Drag the Sun to move the field, drag empty space to rotate, and scroll to zoom. 
 
 Stationary-clock rates outside an ideal spherical, non-rotating Sun follow alpha(r) = sqrt(1 - 2GM/(r c²)). The chosen visual mapping is x' = s + alpha(|x-s|)^A (x-s), where s is the Sun position and A exaggerates the mapping. It is a visual metaphor, not physical spatial compression or an isometric embedding of spacetime. Moving the Sun recomputes a static field; propagation delays, gravitational waves and motion effects are not simulated. The numeric clock readout remains unexaggerated. Sources and equations are included in the application.
 
-Live website: https://kuke2013-hub.github.io/clock-cube/
+Live website: https://kuke2013-hub.github.io/clock-cube-with-sun-spacetime-gravity-visualization/
 
 ## Hosting
 
